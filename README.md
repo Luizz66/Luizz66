@@ -6,4 +6,3 @@
 ![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizz66&show_icons=true&theme=radical)
 
 ## Cursando Análise e Desenvolvimento de Sistemas 🖥️
-
