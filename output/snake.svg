@@ -1,4 +1,6 @@
-<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+<svg width="400" height="200"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
   <path id="snake" d="M10 100 Q 50 10, 100 100 T 190 100"
         fill="none" stroke="green" stroke-width="5"/>
   <animate
