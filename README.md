@@ -40,12 +40,6 @@
   <a href="https://www.instagram.com/luizz.gu_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Luizz66/Luizz66/output/snake.svg" alt="Snake animation" />
+</div
 
 ###
